@@ -1,0 +1,29 @@
+{
+  "name": "website-snapshot",
+  "version": "0.0.1",
+  "description": "create mobile version website snapshot and support batch processing",
+  "main": "website-snapshot.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/changyy/node-website-snapshot"
+  },
+  "dependencies": {
+    "webshot": ">= 0.18.0"
+  },
+  "keywords": [
+    "web",
+    "website",
+    "snapshot",
+    "webshot",
+    "mysql",
+    "batch"
+  ],
+  "author": "Yuan-Yi Chang",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/changyy/node-website-snapshot/issues"
+  }
+}
